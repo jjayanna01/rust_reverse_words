@@ -22,3 +22,12 @@ s[i] is an English letter (uppercase or lowercase), digit, or space ' '.
 There is at least one word in s.
 s does not contain leading or trailing spaces.
 All the words in s are guaranteed to be separated by a single space.
+
+To compile the code:
+- At the top directory, run cargo:
+  cargo run
+  The above compiles and runs the code
+
+To run the test:
+- At the top directory, run cargo:
+  cargo test
